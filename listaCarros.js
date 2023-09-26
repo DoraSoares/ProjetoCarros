@@ -6,7 +6,7 @@ let listaCarros =  [
     },        
     {
         "nome": "De Tomaso",
-        "img": "img/deTomaso.jpg",
+        "img": "img/DeTomaso.jpg",
         "descricao": "O De Tomaso Pantera é um carro esportivo de motor central produzido pela fabricante italiana de automóveis De Tomaso de 1971 a 1992.  O Pantera foi o modelo mais popular da montadora, com mais de 7.000 fabricados ao longo de sua produção de vinte anos.",
     },
     {
