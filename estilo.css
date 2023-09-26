@@ -1,0 +1,17 @@
+html{
+    margin: 3%;
+}
+
+footer{
+    text-align: center;
+    font-size:small;
+}
+
+@media all and (max-width: 768px){
+    body{
+        margin: 10%;
+        align-items: center;
+    }
+
+}
+    
